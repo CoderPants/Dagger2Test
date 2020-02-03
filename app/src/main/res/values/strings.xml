@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dagger2Test</string>
+    <string name="logout">Logout</string>
+    <string name="error_data">error</string>
+    <string name="unknown_data">Unknown</string>
+    <string name="profile">Profile</string>
+    <string name="posts">Posts</string>
+</resources>
